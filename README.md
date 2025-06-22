@@ -57,13 +57,18 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arjunsaxaena&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunsaxaena&layout=compact&theme=tokyonight" />
 </p>
 
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arjunsaxaena&theme=onedark" />
 </p>
 
-![Snake animation](https://github.com/arjunsaxaena/arjunsaxaena/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunsaxaena&theme=tokyo-night&hide_border=true" />
+</p>
