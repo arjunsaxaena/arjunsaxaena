@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&width=400&lines=Hi%2C+I'm+Arjun+Saxena;AI+%7C+Backend+%7C+DevOps" />
 </p>
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-🔵%201234-blueviolet?style=for-the-badge)
-
 - 🔭 I’m currently working on **Craveconnect**
 
 - 🌱 I’m currently learning **DSA**
