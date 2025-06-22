@@ -66,7 +66,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=arjunsaxaena&theme=onedark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunsaxaena&theme=tokyo-night&hide_border=true" />
-</p>
-
+![Snake animation](https://github.com/arjunsaxaena/arjunsaxaena/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
