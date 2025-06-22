@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **arjunsaxena04@gmail.com**
 
-- ⚡ Fun fact **I use Arch btw**
+- ⚡ Fun fact **I dont know how to centre a div, I use Arch btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
