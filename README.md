@@ -57,16 +57,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunsaxaena&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunsaxaena&layout=compact&theme=tokyonight" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjunsaxaena&theme=onedark" />
-</p>
-
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunsaxaena&theme=tokyo-night&hide_border=true" />
 </p>
