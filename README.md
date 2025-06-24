@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&width=400&lines=Hi%2C+I'm+Arjun+Saxena;AI+%7C+Backend+%7C+DevOps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&width=420&lines=Hi%2C+I'm+Arjun+Saxena;AI+%7C+Backend+%7C+Cloud+%7C+DevOps" />
 </p>
 
 - 🔭 I’m currently working on **Craveconnect**
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **arjunsaxena04@gmail.com**
 
-- ⚡ Fun fact **I dont know how to centre a div, I use Arch btw**
+- ⚡ Fun fact **I don't know how to centre a div, I use Arch btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
