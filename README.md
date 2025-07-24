@@ -26,7 +26,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,bash,react,tensorflow,pytorch,sklearn,pandas,seaborn,aws,gcp,docker,kubernetes,linux,git,postgres,mongodb,redis,rabbitmq,kafka" />
+  <img src="https://skillicons.dev/icons?i=kali,neovim,bash,python,go,cpp,react,tensorflow,pytorch,sklearn,aws,gcp,azure,docker,kubernetes,linux,git,postgres,mongodb,redis,rabbitmq,jenkins,kafka" />
 </p>
 
 ---
@@ -34,8 +34,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunsaxaena&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunsaxaena&theme=tokyonight&hide_border=true" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunsaxaena&layout=compact&theme=tokyonight&hide_border=true" />
@@ -43,6 +41,6 @@
 
 ---
 
-## GitHub Contribution
+## GitHub Contributions
 
 ![snake gif](https://github.com/arjunsaxaena/arjunsaxaena/blob/main/dist/github-contribution-grid-snake.svg)
