@@ -55,8 +55,4 @@
 
 ## 🐍 GitHub Contribution Snake
 
-```md
-<!-- Uncomment after you set up the workflow in your profile repo -->
-<!--
 ![snake gif](https://github.com/arjunsaxaena/arjunsaxaena/blob/output/github-contribution-grid-snake.svg)
--->
