@@ -26,7 +26,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,neovim,bash,python,go,cpp,react,tensorflow,pytorch,sklearn,aws,gcp,azure,docker,kubernetes,linux,git,postgres,mongodb,redis,rabbitmq,jenkins,kafka" />
+  <img src="https://skillicons.dev/icons?i=kali,neovim,bash,python,go,cpp,react,fastapi,flask,opencv,tensorflow,pytorch,sklearn,aws,gcp,firebase,azure,supabase,vercel,docker,kubernetes,linux,git,github,githubactions,gitlab,postgres,mongodb,redis,rabbitmq,jenkins,kafka" />
 </p>
 
 ---
