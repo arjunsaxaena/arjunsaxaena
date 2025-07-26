@@ -1,7 +1,25 @@
-<img src="images/banner.png" alt="Banner" width="100%" />
+<!-- Dynamic Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?lines=AI+%7C+FULL+STACK+%7C+CLOUD+%7C+DEVOPS&center=true&size=27&color=fe8019&width=600&height=50&font=Fira%20Code&weight=600&pause=1000&random=false" alt="Typing SVG" />
+</div>
 
+<!-- GitHub Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunsaxaena&theme=gruvbox&hide_border=true&line_height=27" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunsaxaena&layout=compact&theme=gruvbox&hide_border=true" />
+</p>
 
-<h2 align="center">Connect with Me</h2>
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arjunsaxaena&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<!-- Fun Animated Elements -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunsaxaena&theme=gruvbox&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+<h2 align="center">Socials</h2>
 
 <p align="center">
   <a href="mailto:arjunsaxena04@gmail.com">
@@ -21,26 +39,10 @@
   </a>
 </p>
 
----
-
-## Tech Stack
-
-<p align="center">
+<div align="center">
+  <h2>Tech Stack & Tools</h2>
   <img src="https://skillicons.dev/icons?i=linux,bash,kali,neovim,python,go,cpp,react,fastapi,flask,opencv,tensorflow,pytorch,sklearn,aws,gcp,firebase,azure,supabase,vercel,docker,kubernetes,git,github,githubactions,gitlab,postgres,mongodb,redis,rabbitmq,jenkins,kafka" />
-</p>
+</div>
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunsaxaena&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunsaxaena&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## GitHub Contributions
-
-![snake gif](https://github.com/arjunsaxaena/arjunsaxaena/blob/main/dist/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/arjunsaxaena/arjunsaxaena/blob/main/dist/github-contribution-grid-snake.svg) -->
